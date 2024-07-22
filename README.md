@@ -1,8 +1,8 @@
-# Vue Image Gallery
+# Image Gallery
 
 ## Description
 
-Vue Image Gallery is a Vue 3 application that provides a user-friendly interface for managing images. It supports drag-and-drop image uploads, title editing, and sorting by date or title. Users can view images in a modal and rotate or delete them as needed. The gallery includes pagination for easy navigation through large sets of images.
+Image Gallery is a Vue 3 application that provides a user-friendly interface for managing images. It supports drag-and-drop image uploads, title editing, and sorting by date or title. Users can view images in a modal and rotate or delete them as needed. The gallery includes pagination for easy navigation through large sets of images.
 
 ## Features
 
@@ -21,7 +21,7 @@ Vue Image Gallery is a Vue 3 application that provides a user-friendly interface
 
 2. Navigate into the project directory:
 
-cd vue-image-gallery
+cd image-gallery
 
 3. Install dependencies && Start the development server:
 
